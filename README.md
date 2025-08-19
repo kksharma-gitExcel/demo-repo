@@ -1,3 +1,3 @@
 # demo-repo
 This is my first git repository.<br>
-Author - Kuldeep
+Author - Kuldeep kumar sharma
